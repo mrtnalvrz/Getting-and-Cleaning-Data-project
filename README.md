@@ -15,6 +15,6 @@ Requirements:
   
   <b>5th Requirement-</b> Using the data set from requirement 4), generate a tidy data set with the average of each variable for each activity and each subject.
 
-  End result file:  tidyDataResult.txt
+  End result file:  `tidyDataResult.txt`
 
-  Note:  File format of the tidy result set is csv but the file is identified as txt 
+  <u>Note:  File format of the tidy result set is csv but the file is identified as txt</u>
